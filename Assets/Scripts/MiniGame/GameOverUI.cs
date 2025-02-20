@@ -26,7 +26,7 @@ public class GameOverUI : BaseUI
 
     public void OnClickExitButton()
     {
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene(0);
     }
 
     protected override UIState GetUIState()
