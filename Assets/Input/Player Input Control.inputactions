@@ -1,0 +1,34 @@
+{
+    "name": "Player Input Control",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "308f3b60-b55a-4ed9-8804-306c69405652",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "e2804f39-707a-4a58-a046-0cf6629072f2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c9c6894e-be48-43ef-af23-c297fce6153b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
